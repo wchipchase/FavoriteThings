@@ -1,0 +1,11 @@
+C:\Users\wchip\source\repos\FavoriteThings\FavoriteThings\bin\Debug\netcoreapp2.2\FavoriteThings.deps.json
+C:\Users\wchip\source\repos\FavoriteThings\FavoriteThings\bin\Debug\netcoreapp2.2\FavoriteThings.runtimeconfig.json
+C:\Users\wchip\source\repos\FavoriteThings\FavoriteThings\bin\Debug\netcoreapp2.2\FavoriteThings.runtimeconfig.dev.json
+C:\Users\wchip\source\repos\FavoriteThings\FavoriteThings\bin\Debug\netcoreapp2.2\FavoriteThings.dll
+C:\Users\wchip\source\repos\FavoriteThings\FavoriteThings\bin\Debug\netcoreapp2.2\FavoriteThings.pdb
+C:\Users\wchip\source\repos\FavoriteThings\FavoriteThings\obj\Debug\netcoreapp2.2\FavoriteThings.csprojAssemblyReference.cache
+C:\Users\wchip\source\repos\FavoriteThings\FavoriteThings\obj\Debug\netcoreapp2.2\FavoriteThings.csproj.CoreCompileInputs.cache
+C:\Users\wchip\source\repos\FavoriteThings\FavoriteThings\obj\Debug\netcoreapp2.2\FavoriteThings.AssemblyInfoInputs.cache
+C:\Users\wchip\source\repos\FavoriteThings\FavoriteThings\obj\Debug\netcoreapp2.2\FavoriteThings.AssemblyInfo.cs
+C:\Users\wchip\source\repos\FavoriteThings\FavoriteThings\obj\Debug\netcoreapp2.2\FavoriteThings.dll
+C:\Users\wchip\source\repos\FavoriteThings\FavoriteThings\obj\Debug\netcoreapp2.2\FavoriteThings.pdb
